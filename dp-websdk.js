@@ -1,4 +1,3 @@
-index.js
 /*!
  * async
  * https://github.com/caolan/async
